@@ -14,7 +14,7 @@ public class TwentyFourPointsFrame extends JFrame{
 	 */
 	public TwentyFourPointsFrame(){
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
-		this.setTitle("24-Point Card Game");
+		this.setTitle("Twenty-Four!");
 		TwentyFourPointsPanel panel = new TwentyFourPointsPanel();
 		this.getContentPane().add(panel);
 		
