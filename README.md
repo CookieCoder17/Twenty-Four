@@ -18,3 +18,11 @@ A Java GUI clone of the Chinese Twenty-Four Card Game. Designed using java, GUI 
 8. Pop and output from the stack until it is not empty.
 
 ## Usage
+
+<p align="left">
+  <img src="Twenty-Four_README/pic_1.png" width="300">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="Twenty-Four_README/pic_2.png" width="300">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="Twenty-Four_README/pic_3.png" width="300">
+</p>
